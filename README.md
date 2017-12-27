@@ -1,2 +1,1 @@
-# FloatingCloudYoga
-TWD16 Client Project
+Yoga Studio for Kids. Wordpress Theme Development
